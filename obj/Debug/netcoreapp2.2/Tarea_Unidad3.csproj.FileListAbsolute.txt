@@ -1,0 +1,11 @@
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.csprojAssemblyReference.cache
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.csproj.CoreCompileInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.AssemblyInfoInputs.cache
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.AssemblyInfo.cs
+C:\Users\beto_\Documents\Tarea_Unidad3\bin\Debug\netcoreapp2.2\Tarea_Unidad3.deps.json
+C:\Users\beto_\Documents\Tarea_Unidad3\bin\Debug\netcoreapp2.2\Tarea_Unidad3.runtimeconfig.json
+C:\Users\beto_\Documents\Tarea_Unidad3\bin\Debug\netcoreapp2.2\Tarea_Unidad3.runtimeconfig.dev.json
+C:\Users\beto_\Documents\Tarea_Unidad3\bin\Debug\netcoreapp2.2\Tarea_Unidad3.dll
+C:\Users\beto_\Documents\Tarea_Unidad3\bin\Debug\netcoreapp2.2\Tarea_Unidad3.pdb
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.dll
+C:\Users\beto_\Documents\Tarea_Unidad3\obj\Debug\netcoreapp2.2\Tarea_Unidad3.pdb

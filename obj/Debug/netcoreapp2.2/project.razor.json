@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\beto_\\Documents\\Tarea_Unidad3\\Tarea_Unidad3.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
